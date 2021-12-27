@@ -102,7 +102,7 @@ class MyHomePage extends StatelessWidget {
         Padding(
           padding: EdgeInsets.all(10),
           // ignore: prefer_const_constructors
-          child: Icon(Icons.book),
+          child: Icon(Icons.computer),
         ),
         Text(
           "Computer-Science",
